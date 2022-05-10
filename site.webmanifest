@@ -1,0 +1,23 @@
+   {
+    "name": "P Steele",
+    "short_name": "P Steele",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN3xZRtSKqd4guEQ0-qRxEyWEXa6R6zuhFOBK6QLX3X_JTjiecgnaOxKv43jl5zyJ4X9YKiukqsfMDfKzNPJKZzofH4OvqNz_XFoKLnRpTOb1ZnWLBF31mNoqWxnqFxCO8cumgXotoWNeAf2qEJ2inVIb6rL7FUcPAFJQYzKn1FEib0aB2MGU2PtZKBA/s1600/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRqlf9uknDOMSt1FoQ6ZDR9GM6zgmRkLjsqU7j6gnzeFPPxp5AyVsMYc60O9GHMvhPgZA76qAdYXdl0TEabH_OxYQ6rjlIE3VLhYEpUMJPFZscf4HAUTIjclQe40OQDbynH_L0Ux8Jxpl0oW_8XYTac2MSOlpSHQrENupVz5OU86wv4eZHDXtmHanpzw/s1600/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://prashantsteele.blogspot.com/"
+}
